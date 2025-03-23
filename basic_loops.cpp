@@ -18,15 +18,15 @@ int main()
         cout<<i<<endl;
     }
 
-
+}
 
 
 //using while
-int i=1;
+/*int i=1;
 while(i<=n)
 {
     cout<<i<<endl;
 
     i++;
 }
-}
+}*/
