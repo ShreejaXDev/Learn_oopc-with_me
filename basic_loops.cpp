@@ -3,6 +3,8 @@
 
 //print 1 to n
 
+
+
 #include<iostream>
 using namespace std;
 
@@ -22,6 +24,8 @@ int main()
 
 
 //using while
+
+
 /*int i=1;
 while(i<=n)
 {
@@ -29,4 +33,6 @@ while(i<=n)
 
     i++;
 }
-}*/
+}
+
+*/
