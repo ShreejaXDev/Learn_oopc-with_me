@@ -3,8 +3,6 @@
 
 //print 1 to n
 
-
-
 #include<iostream>
 using namespace std;
 
