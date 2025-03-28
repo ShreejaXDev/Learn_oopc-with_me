@@ -1,7 +1,11 @@
 //simple array
 
+
+
+
 #include<iostream>
 using namespace std;
+
 
 int main()
 {
@@ -41,6 +45,6 @@ int main()
 
 
 
-    cout<<endl<<"elements present in marks array :"<<sizeof(marks)/sizeof(int);
+cout<<endl<<"elements present in marks array :"<<sizeof(marks)/sizeof(int);
 
 }
