@@ -6,8 +6,7 @@ using namespace std;
 int main()
 {
 
-
-    int n;
+int n;
 
 
     cout<<"enter size of an array :";
