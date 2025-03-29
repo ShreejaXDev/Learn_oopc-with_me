@@ -1,5 +1,4 @@
-//reverse of an array
-
+//reverse of an array
 
 #include<iostream>
 using namespace std;
