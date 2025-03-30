@@ -1,8 +1,5 @@
 //programs using loops
 
-
-
-
 //print 1 to n
 
 #include<iostream>
