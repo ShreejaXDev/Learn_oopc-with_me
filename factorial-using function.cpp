@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int fact(int n)
 {
     int f=1;
