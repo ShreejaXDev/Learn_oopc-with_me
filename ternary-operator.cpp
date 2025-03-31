@@ -1,6 +1,7 @@
 //  ternary operator use
 
 
+
 #include<iostream>
 
 using namespace std;
