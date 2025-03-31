@@ -1,5 +1,6 @@
 //find smallest or largest number in array
 
+
 #include<iostream>
 using namespace std;
 
