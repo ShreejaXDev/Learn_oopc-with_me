@@ -1,6 +1,7 @@
 //binary to decimal number converter 
 
 
+
 #include<iostream>
 using namespace std;
 
