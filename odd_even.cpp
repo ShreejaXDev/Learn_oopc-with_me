@@ -1,5 +1,6 @@
 //odd or even number
 
+
 #include<iostream>
 using namespace std;
 
