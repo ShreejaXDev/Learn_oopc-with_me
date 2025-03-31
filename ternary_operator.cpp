@@ -1,6 +1,7 @@
 //  ternary operator use
 
 
+
 // condition ? true : false ;
 
 
