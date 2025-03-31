@@ -1,5 +1,6 @@
 //vectors syntax and intialization
 
+
 #include<iostream>
 #include<vector>
 
