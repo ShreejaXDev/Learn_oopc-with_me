@@ -1,7 +1,6 @@
 //is person eligible to vote or not?
 
-
-#include<iostream>
+#include<iostream>
 using namespace std;
 
     int  main()
