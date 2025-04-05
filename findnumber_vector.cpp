@@ -1,5 +1,4 @@
-//find single number in array(solve by vector)
-
+//find single number in array(solve by vector)
 
 //input : 2 3 1 3 2 1 4
 //output : 4  bcz 4 is only unique number in all and we can get that from using xor operation bzz 0^0=0
