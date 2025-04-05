@@ -1,8 +1,7 @@
 //programs using loops
 
 
-
-//print 1 to n
+//print 1 to n
 
 #include<iostream>
 using namespace std;
