@@ -1,3 +1,5 @@
+//factorial using function 
+
 #include<iostream>
 using namespace std;
 
